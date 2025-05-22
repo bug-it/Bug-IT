@@ -2,7 +2,7 @@
 
 É um projeto dedicado à arte da exploração, automação e defesa digital, nascido da paixão por hacking, programação e da missão de compartilhar conhecimento real com a comunidade underground.
 <br/><br/>
-A verdadeira força está em ensinar o que você aprendeu na prática.
+<i>A verdadeira força está em ensinar o que você aprendeu na prática.</i>
 <br/><br/>
 <p align="left">
     <a href="https://github.com/bug-it?tab=repositories&sort=stargazers">

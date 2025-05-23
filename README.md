@@ -172,14 +172,6 @@
 
 <img 
     align="left" 
-    alt="WHATSAPP" 
-    title="WHATSAPP"
-    style="padding-right: 10px;" 
-    src="https://camo.githubusercontent.com/904b9a232fa355dadbfaf51b241395f305f1e0110cb2967df18d2daf875faeec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" 
-/>
-
-<img 
-    align="left" 
     alt="LINKEDIN" 
     title="LINKEDIN"
     style="padding-right: 10px;" 
